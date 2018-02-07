@@ -22,6 +22,8 @@ import javax.swing.SwingConstants;
 //2. Replace that 0 when an integer is added but keep that zero if Decimal point is used
 //3. Perform a multiplication and then Press "C" and then press "=" it will keep giving 0
 //4. "CE" should make it completely forget all its' previous calculations and restart an expression
+//5. The window size is always opening in maximum mode or minimized mode
+//6. The window runs even after closing the GUI.
 //These are just a few problems I noticed, I am sure there might be more but it should get us through the 1st Deliverable.
 
 public class Calulator {
